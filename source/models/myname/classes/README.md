@@ -1,3 +1,3 @@
-# Package 📦 models.myname.classes
+# Package 📦 models.gdpr.classes
 
 

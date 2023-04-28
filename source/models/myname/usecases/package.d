@@ -1,1 +1,1 @@
-module models.myname.usecases;
+module models.gdpr.usecases;

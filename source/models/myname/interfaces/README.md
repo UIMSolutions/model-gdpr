@@ -1,3 +1,3 @@
-# Package 📦 models.myname.interfaces
+# Package 📦 models.gdpr.interfaces
 
 

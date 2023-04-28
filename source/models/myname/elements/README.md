@@ -1,2 +1,2 @@
-# Package 📦 models.myname.elements
+# Package 📦 models.gdpr.elements
 

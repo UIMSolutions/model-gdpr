@@ -1,1 +1,1 @@
-module models.myname.interfaces;
+module models.gdpr.interfaces;

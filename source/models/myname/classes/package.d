@@ -1,1 +1,1 @@
-module models.myname.classes;
+module models.gdpr.classes;

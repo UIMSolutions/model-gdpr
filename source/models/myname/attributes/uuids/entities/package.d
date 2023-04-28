@@ -1,1 +1,1 @@
-module models.myname.attributes.uuids.entities;
+module models.gdpr.attributes.uuids.entities;

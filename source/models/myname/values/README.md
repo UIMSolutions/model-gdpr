@@ -1,3 +1,3 @@
-# Package 📦 models.myname.values
+# Package 📦 models.gdpr.values
 
 

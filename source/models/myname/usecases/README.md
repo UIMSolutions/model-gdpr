@@ -1,1 +1,1 @@
-# Package 📦 models.myname.usecases
+# Package 📦 models.gdpr.usecases
