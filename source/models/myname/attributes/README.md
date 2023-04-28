@@ -1,3 +1,0 @@
-# Package 📦 models.gdpr.attributes
-
-
