@@ -1,1 +1,1 @@
-# Package 📦 models.myname.attributes.relationships
+# Package 📦 models.gdpr.attributes.relationships

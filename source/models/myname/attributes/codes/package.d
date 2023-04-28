@@ -1,1 +1,1 @@
-module models.myname.attributes.codes;
+module models.gdpr.attributes.codes;

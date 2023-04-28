@@ -1,1 +1,1 @@
-module models.myname.attributes.functions;
+module models.gdpr.attributes.functions;

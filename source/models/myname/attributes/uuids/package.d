@@ -1,3 +1,3 @@
-module models.myname.attributes.uuids;
+module models.gdpr.attributes.uuids;
 
-public import models.myname.attributes.uuids.entities;
+public import models.gdpr.attributes.uuids.entities;

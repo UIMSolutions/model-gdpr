@@ -1,1 +1,1 @@
-# Package 📦 models.myname
+# Package 📦 models.gdpr

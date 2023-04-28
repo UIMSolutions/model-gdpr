@@ -1,1 +1,1 @@
-# Package 📦 models.myname.attributes.entities
+# Package 📦 models.gdpr.attributes.entities
