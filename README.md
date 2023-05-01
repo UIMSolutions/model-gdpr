@@ -1,1 +1,1 @@
-# moduleTemplate
+# Model library 🗃 model-gdpr
