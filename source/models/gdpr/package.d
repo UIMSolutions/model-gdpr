@@ -7,4 +7,5 @@ public import models.gdpr.entities;
 public import models.gdpr.usecases;
 public import models.gdpr.values;
 
+public import models.gdpr.helpers;
 public import models.gdpr.tests;
